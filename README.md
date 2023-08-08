@@ -4,9 +4,16 @@ Integrantes Equipo "Dr. Psiquiatra"
 
 
   -Hestybalyz Jackelyn Fernandez Cantu
+  
   -Angela Marisol Melendez Fuentes
+  
   -Erika Daniela Mallozzi Martínez
+  
   -Omar Alejandro Pérez Reyes
+
+
+
+
 
 
 // 
