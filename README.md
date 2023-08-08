@@ -27,3 +27,9 @@ Integrantes Equipo "Dr. Psiquiatra"
   git add READ.me
 
   git commit -m "nuevo"
+
+
+
+// ACTUALIZAR 
+  git checkout main
+  git pull origin main
