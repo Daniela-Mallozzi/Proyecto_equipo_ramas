@@ -40,7 +40,8 @@ Integrantes Equipo "Dr. Psiquiatra"
 // CAMBIAR DE RAMA
   git checkout 'nombre de rama'
 
-
+// VER CUANTAS RAMAS HAY
+  git branch
 
 
 
